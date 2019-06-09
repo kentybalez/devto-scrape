@@ -1,0 +1,17 @@
+{
+  "name": "devto-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "ora": "^3.4.0",
+    "puppeteer": "^1.17.0"
+  }
+}
